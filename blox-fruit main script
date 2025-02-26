@@ -34,12 +34,6 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
     
 ------- BUTTON
 
-  })  AddButton(Tab1o, {
-    Name = "click here to join discord",
-    Callback = function()
-    https://discord.gg/Y3vgRUaEha
-   end
-
     AddButton(Tab1o, {
      Name = "KIMP GAMING V1",
     Callback = function()
@@ -245,5 +239,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/xi3000/GARDAN-hub-v3/
     Callback = function()
 getgenv().Team = "Pirates" --// getgenv().Team = "Marines"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NHMdz/BloxFruit/refs/heads/main/Lion%20Hub.lua"))() 
- end
+  end
 })
